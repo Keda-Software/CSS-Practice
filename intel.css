@@ -3,11 +3,13 @@ body{
     background-color: #fff9f4;
     color:#333;
     line-height: 1.6em;
+    
 }
 .banner img{
     width: 100%;
     height:360px;
     object-fit: cover;
+
 }
 .menu img{
     width:200px;

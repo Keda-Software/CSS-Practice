@@ -1,0 +1,19 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #fff9f4;
+    color:#333;
+    line-height: 1.6em;
+}
+.banner img{
+    width: 100%;
+    height:360px;
+    object-fit: cover;
+}
+.menu img{
+    width:200px;
+    height: 150px;
+    border-radius: 20px;
+}
+.menu image:hover{
+    margin-bottom: 40px;
+}
